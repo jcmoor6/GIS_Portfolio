@@ -18,4 +18,5 @@ News Article:
   - Link: https://news.emory.edu/features/2020/07/georgia-coast-atlas/index.html
 
 
-Interactive Wolf Island Map: https://www.arcgis.com/apps/Embed/index.html?webmap=2c5ed3cf2cdc433797b4b9276b998171&extent=-81.3403,31.3184,-81.2456,31.3717&zoom=true&previewImage=false&scale=true&legend=true&basemap_gallery=true&disable_scroll=true&theme=light
+Interactive Wolf Island Map: 
+https://www.arcgis.com/apps/Embed/index.html?webmap=2c5ed3cf2cdc433797b4b9276b998171&extent=-81.3403,31.3184,-81.2456,31.3717&zoom=true&previewImage=false&scale=true&legend=true&basemap_gallery=true&disable_scroll=true&theme=light
