@@ -22,6 +22,7 @@ Image 7. Different Types of Map Projections
 ![image](https://github.com/jcmoor6/GIS_Portfolio/assets/79549669/2c3d5fcc-8ecf-44ad-a4cb-1680e33fabdd)
 
 Image 8. Area and Distance According to Projections
+
 ![image](https://github.com/jcmoor6/GIS_Portfolio/assets/79549669/e462e482-f53a-48f0-bce8-1f36b69b4930)
 
 Image 9. Manatee Synoptic Survey
