@@ -62,6 +62,7 @@ Image 20. Areas at Risk of Flooding Based on Hawaii Air Temperature, Elevation, 
 ![image](https://github.com/jcmoor6/GIS_Portfolio/assets/79549669/d07d8f51-5605-4cf3-bccc-99775a207529)
 
 Image 21. Watershed Areas of Oahu, Hawaii, USA
+
 ![image](https://github.com/jcmoor6/GIS_Portfolio/assets/79549669/88f73fca-d36c-4154-8db9-98e9f632891c)
 
 Image 22. Percentage of Organics in the New York and New Jersey Harbor Sediment
@@ -71,12 +72,14 @@ Image 23. Florida Keys Bathymetry and Marine Debris
 ![image](https://github.com/jcmoor6/GIS_Portfolio/assets/79549669/b1794eb4-178b-46f3-bf62-70cf39ff9a92)
 
 Image 24. Watershed Areas of Chesapeake Bay
+
 ![image](https://github.com/jcmoor6/GIS_Portfolio/assets/79549669/de71a2a2-7782-48b1-afbd-496a6c51391c)
 
 Image 25. Potential Aquaculture Laboratory Locations in La Concordia Peru
 ![image](https://github.com/jcmoor6/GIS_Portfolio/assets/79549669/fa5faaf3-f2d1-489b-8f51-9dd187ba85ba)
 
 Image 26. Ground Elevation in San Bernandino, CA
+
 ![image](https://github.com/jcmoor6/GIS_Portfolio/assets/79549669/b2cb051c-c010-4bf5-b14d-6baf214d1bd5)
 
 
