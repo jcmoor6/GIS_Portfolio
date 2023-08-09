@@ -55,7 +55,37 @@ Image 17. Sea Surface Temperature, Chlorophyll and Depth in Accordance to Shark 
 Image 18. Hotspot Analysis of Average Rainfall on Oahu, Hawaii in January and February
 ![image](https://github.com/jcmoor6/GIS_Portfolio/assets/79549669/39923c9b-3565-41f5-a5b5-881775fd29db)
 
-Image 19. 
+Image 19. Average Rainfall in Oahu, Hawaii
+![image](https://github.com/jcmoor6/GIS_Portfolio/assets/79549669/b82aab01-423a-4dc1-80ff-3f04803b2adb)
+
+Image 20. Areas at Risk of Flooding Based on Hawaii Air Temperature, Elevation, and Rainfall
+![image](https://github.com/jcmoor6/GIS_Portfolio/assets/79549669/d07d8f51-5605-4cf3-bccc-99775a207529)
+
+Image 21. Watershed Areas of Oahu, Hawaii, USA
+![image](https://github.com/jcmoor6/GIS_Portfolio/assets/79549669/88f73fca-d36c-4154-8db9-98e9f632891c)
+
+Image 22. Percentage of Organics in the New York and New Jersey Harbor Sediment
+![image](https://github.com/jcmoor6/GIS_Portfolio/assets/79549669/39264698-9679-478e-8fb2-35633922940d)
+
+Image 23. Florida Keys Bathymetry and Marine Debris
+![image](https://github.com/jcmoor6/GIS_Portfolio/assets/79549669/b1794eb4-178b-46f3-bf62-70cf39ff9a92)
+
+Image 24. Watershed Areas of Chesapeake Bay
+![image](https://github.com/jcmoor6/GIS_Portfolio/assets/79549669/de71a2a2-7782-48b1-afbd-496a6c51391c)
+
+Image 25. Potential Aquaculture Laboratory Locations in La Concordia Peru
+![image](https://github.com/jcmoor6/GIS_Portfolio/assets/79549669/fa5faaf3-f2d1-489b-8f51-9dd187ba85ba)
+
+Image 26. Ground Elevation in San Bernandino, CA
+![image](https://github.com/jcmoor6/GIS_Portfolio/assets/79549669/b2cb051c-c010-4bf5-b14d-6baf214d1bd5)
+
+
+
+
+
+
+
+
 
 
 
