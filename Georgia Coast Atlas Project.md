@@ -3,6 +3,7 @@ data and quantify shoreline change on a Georgia barrier island called Wolf Islan
 Coast Atlas website, has been presented at two conferences, and was featured in a news article.  Below are the website links:
 
 Georgia Coast Atlas website: https://georgiacoastatlas.org/shoreline_change_wolf.html
+
 Geological Society of America Conference Links: 
   - Poster Title: Shifting Shorelines on Wolf and Egg Islands, Georgia, USA: A Study of Change Since 1953
     Year and Location: April 2018, Knoxville, TN
@@ -11,6 +12,7 @@ Geological Society of America Conference Links:
                   Public Outreach through the Georgia Coast Atlas
     Year and Location: March 2019, Charleston, SC
     Abstract Link: https://gsa.confex.com/gsa/2019SE/meetingapp.cgi/Paper/327300
+    
 News Article:
   - Title: Georgia Coast Atlas: A Portal to Hidden Stories
   - Link: https://news.emory.edu/features/2020/07/georgia-coast-atlas/index.html
